@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/kanagawa-usedcar-ranking/sitemap.xml
